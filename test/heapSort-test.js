@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import heapSort from '../lib/heap.js';
+import heapSort from '../lib/heapSort.js';
 
 describe('Heap', function () {
   it('should sort a small number array', () => {
@@ -39,7 +39,7 @@ describe('Heap', function () {
     heapSort(largeArray);
     const actual = heapSort(largeArray);
     const expected = largeArray;
-    
+
     assert.deepEqual(actual, expected);
   });
 
