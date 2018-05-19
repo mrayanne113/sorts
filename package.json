@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrayanne113/toss.git"
+    "url": "git+https://github.com/mrayanne113/sorts.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrayanne113/toss/issues"
+    "url": "https://github.com/mrayanne113/sorts/issues"
   },
-  "homepage": "https://github.com/mrayanne113/toss#readme",
+  "homepage": "https://github.com/mrayanne113/sorts#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "css-loader": "^0.28.11",
