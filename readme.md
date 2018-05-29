@@ -1,4 +1,4 @@
-# The Great Sorts
+# Sorting Suite
 
 ## Heap Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
 
