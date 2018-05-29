@@ -11,3 +11,7 @@
 * Begin to understand optimization and efficiency
 * Learn to write (and love) unit tests
 
+### To Complete is this Project
+* Show my understanding of each sort with a deck of cards
+* I had to be able to pseudocode or whiteboard during the eval on any given sort
+* Have a fully tested suite that pushed my computer to the limit before the test timed out
